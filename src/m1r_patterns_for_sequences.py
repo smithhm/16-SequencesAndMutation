@@ -37,7 +37,7 @@ Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
 #     -- TWO-PLACES-AT-ONCE, and
 #     -- TWO-SEQUENCES-IN-PARALLEL
 #   then:
-#      change the above TODO to DONE.
+#      change the above DONE to DONE.
 # ----------------------------------------------------------------------
 
 import math
